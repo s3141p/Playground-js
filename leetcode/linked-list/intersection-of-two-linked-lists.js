@@ -14,15 +14,15 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
+    let pointerA = headA;
+    let pointerB = headB;
 
-    while(headA || headB){
-        headA === headB ?
-
+    while (pointerA !== pointerB) {
+        pointerA = pointerA ? pointerA.next : headB;
+        pointerB = pointerB ? pointerB.next : headA;
     }
-    // while (true) {
-    //
-    // }
 
+    return pointerA;
 };
 
 const tail = {
@@ -30,20 +30,11 @@ const tail = {
     next: {
         val: 12
     }
-}
+};
 
 let l1 = {
     val: 1,
-    next: {
-        val: 2,
-        next: {
-            val: 4,
-            next: {
-                val: 10,
-                next: tail
-            }
-        }
-    }
+    next: tail
 };
 
 let l2 = {
@@ -54,11 +45,17 @@ let l2 = {
             val: 4,
             next: {
                 val: 3,
-                next: tail
+                next: null
             }
         }
     }
 };
 
+// A: {1,3,5,7,9,11}
+// B: {2,4,9,11}
+// A: 1, 3, 5, 7 , 9, 11, 2, 4, 9, 11
+// B: 2, 4, 9, 11, 1, 3,  5, 7, 9, 11
 
-console.log(getIntersectionNode(l1, l2).val, 7)
+console.log(getIntersectionNode(l1, l2), 7)
+
+
