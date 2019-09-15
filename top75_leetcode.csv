@@ -1,4 +1,4 @@
-Status   ,Topic              ,Desscription                                                            ,Leetcode URL
+Status   ,Topic              ,Description                                                             ,Leetcode URL
 NotPassed,Arrays             ,Two Sum                                                                 ,https://leetcode.com/problems/two-sum/
 Passed   ,Arrays             ,Best Time to Buy and Sell Stock                                         ,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 NotPassed,Arrays             ,Contains Duplicate                                                      ,https://leetcode.com/problems/contains-duplicate/
@@ -10,10 +10,10 @@ NotPassed,Arrays             ,Search in Rotated Sorted Array                    
 Passed   ,Arrays             ,3Sum                                                                    ,https://leetcode.com/problems/3sum/
 NotPassed,Arrays             ,Container With Most Water                                               ,https://leetcode.com/problems/container-with-most-water/
 NotPassed,Binary             ,Sum of Two Integers                                                     ,https://leetcode.com/problems/sum-of-two-integers/
-NotPassed,Binary             ,Number of 1 Bits                                                        ,https://leetcode.com/problems/number-of-1-bits/
+Passed   ,Binary             ,Number of 1 Bits                                                        ,https://leetcode.com/problems/number-of-1-bits/
 NotPassed,Binary             ,Counting Bits                                                           ,https://leetcode.com/problems/counting-bits/
 Passed   ,Binary             ,Missing Number                                                          ,https://leetcode.com/problems/missing-number/
-NotPassed,Binary             ,Reverse Bits                                                            ,https://leetcode.com/problems/reverse-bits/
+Passed   ,Binary             ,Reverse Bits                                                            ,https://leetcode.com/problems/reverse-bits/
 Passed   ,Dynamic Programming,Climbing Stairs                                                         ,https://leetcode.com/problems/climbing-stairs/
 NotPassed,Dynamic Programming,Coin Change                                                             ,https://leetcode.com/problems/coin-change/
 NotPassed,Dynamic Programming,Longest Increasing Subsequence                                          ,https://leetcode.com/problems/longest-increasing-subsequence/
