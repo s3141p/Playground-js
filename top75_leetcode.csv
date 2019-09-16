@@ -20,7 +20,7 @@ NotPassed,Dynamic Programming,Longest Increasing Subsequence                    
 NotPassed,Dynamic Programming,Longest Common Subsequence                                              ,
 NotPassed,Dynamic Programming,Word Break Problem                                                      ,https://leetcode.com/problems/word-break/
 NotPassed,Dynamic Programming,Combination Sum                                                         ,https://leetcode.com/problems/combination-sum/
-NotPassed,Dynamic Programming,House Robber                                                            ,https://leetcode.com/problems/house-robber/
+Passed   ,Dynamic Programming,House Robber                                                            ,https://leetcode.com/problems/house-robber/
 NotPassed,Dynamic Programming,House Robber II                                                         ,https://leetcode.com/problems/house-robber-ii/
 NotPassed,Dynamic Programming,Decode Ways                                                             ,https://leetcode.com/problems/decode-ways/
 NotPassed,Dynamic Programming,Unique Paths                                                            ,https://leetcode.com/problems/unique-paths/
