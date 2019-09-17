@@ -55,7 +55,7 @@ NotPassed,String             ,Valid Anagram                                     
 NotPassed,String             ,Group Anagrams                                                          ,https://leetcode.com/problems/group-anagrams/
 Passed   ,String             ,Valid Parentheses                                                       ,https://leetcode.com/problems/valid-parentheses/
 Passed   ,String             ,Valid Palindrome                                                        ,https://leetcode.com/problems/valid-palindrome/
-NotPassed,String             ,Longest Palindromic Substring                                           ,https://leetcode.com/problems/longest-palindromic-substring/
+Passed   ,String             ,Longest Palindromic Substring                                           ,https://leetcode.com/problems/longest-palindromic-substring/
 NotPassed,String             ,Palindromic Substrings                                                  ,https://leetcode.com/problems/palindromic-substrings/
 NotPassed,String             ,Encode and Decode Strings (Leetcode Premium)                            ,https://leetcode.com/problems/encode-and-decode-strings/
 Passed   ,Tree               ,Maximum Depth of Binary Tree                                            ,https://leetcode.com/problems/maximum-depth-of-binary-tree/
