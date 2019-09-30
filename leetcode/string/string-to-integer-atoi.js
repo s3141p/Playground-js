@@ -94,3 +94,10 @@ console.log(myAtoi('-91283472332') === -2147483648);
 console.log(myAtoi('-2147483646') === -2147483646);
 console.log(myAtoi('-01324000') === -1324000);
 console.log(myAtoi('2147483649') === 2147483647);
+
+// max = 214748364
+// current = 214748364
+
+// if(current > max || current === max && current+1 > 7){
+//     return MAX;
+// }
