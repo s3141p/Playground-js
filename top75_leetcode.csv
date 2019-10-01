@@ -42,7 +42,7 @@ NotPassed,Linked List        ,Reverse a Linked List                             
 NotPassed,Linked List        ,Detect Cycle in a Linked List                                           ,https://leetcode.com/problems/linked-list-cycle/
 NotPassed,Linked List        ,Merge Two Sorted Lists                                                  ,https://leetcode.com/problems/merge-two-sorted-lists/
 NotPassed,Linked List        ,Merge K Sorted Lists                                                    ,https://leetcode.com/problems/merge-k-sorted-lists/
-NotPassed,Linked List        ,Remove Nth Node From End Of List                                        ,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Passed   ,Linked List        ,Remove Nth Node From End Of List                                        ,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 NotPassed,Linked List        ,Reorder List                                                            ,https://leetcode.com/problems/reorder-list/
 NotPassed,Matrix             ,Set Matrix Zeroes                                                       ,https://leetcode.com/problems/set-matrix-zeroes/
 NotPassed,Matrix             ,Spiral Matrix                                                           ,https://leetcode.com/problems/spiral-matrix/
