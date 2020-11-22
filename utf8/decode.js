@@ -31,7 +31,7 @@ function decode(bytes) {
     }
   }
 
-  return String.fromCharCode(...result);
+  return String.fromCodePoint(...result);
 }
 
 module.exports = {
