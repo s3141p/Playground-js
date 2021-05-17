@@ -1,77 +1,77 @@
-Status   ,Topic              ,Description                                                             ,Leetcode URL
-NotPassed,Arrays             ,Two Sum                                                                 ,https://leetcode.com/problems/two-sum/
-Passed   ,Arrays             ,Best Time to Buy and Sell Stock                                         ,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-NotPassed,Arrays             ,Contains Duplicate                                                      ,https://leetcode.com/problems/contains-duplicate/
-NotPassed,Arrays             ,Product of Array Except Self                                            ,https://leetcode.com/problems/product-of-array-except-self/
-NotPassed,Arrays             ,Maximum Product Subarray                                                ,https://leetcode.com/problems/maximum-product-subarray/
-NotPassed,Arrays             ,Find Minimum in Rotated Sorted Array                                    ,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-NotPassed,Arrays             ,Maximum Subarray                                                        ,https://leetcode.com/problems/maximum-subarray/
-Passed   ,Arrays             ,Search in Rotated Sorted Array                                          ,https://leetcode.com/problems/search-in-rotated-sorted-array/
-Passed   ,Arrays             ,3Sum                                                                    ,https://leetcode.com/problems/3sum/
-Passed   ,Arrays             ,Container With Most Water                                               ,https://leetcode.com/problems/container-with-most-water/
-NotPassed,Binary             ,Sum of Two Integers                                                     ,https://leetcode.com/problems/sum-of-two-integers/
-Passed   ,Binary             ,Number of 1 Bits                                                        ,https://leetcode.com/problems/number-of-1-bits/
-NotPassed,Binary             ,Counting Bits                                                           ,https://leetcode.com/problems/counting-bits/
-Passed   ,Binary             ,Missing Number                                                          ,https://leetcode.com/problems/missing-number/
-Passed   ,Binary             ,Reverse Bits                                                            ,https://leetcode.com/problems/reverse-bits/
-Passed   ,Dynamic Programming,Climbing Stairs                                                         ,https://leetcode.com/problems/climbing-stairs/
-NotPassed,Dynamic Programming,Coin Change                                                             ,https://leetcode.com/problems/coin-change/
-NotPassed,Dynamic Programming,Longest Increasing Subsequence                                          ,https://leetcode.com/problems/longest-increasing-subsequence/
-NotPassed,Dynamic Programming,Longest Common Subsequence                                              ,
-NotPassed,Dynamic Programming,Word Break Problem                                                      ,https://leetcode.com/problems/word-break/
-Passed   ,Dynamic Programming,Combination Sum                                                         ,https://leetcode.com/problems/combination-sum/
-Passed   ,Dynamic Programming,House Robber                                                            ,https://leetcode.com/problems/house-robber/
-NotPassed,Dynamic Programming,House Robber II                                                         ,https://leetcode.com/problems/house-robber-ii/
-NotPassed,Dynamic Programming,Decode Ways                                                             ,https://leetcode.com/problems/decode-ways/
-NotPassed,Dynamic Programming,Unique Paths                                                            ,https://leetcode.com/problems/unique-paths/
-NotPassed,Dynamic Programming,Jump Game                                                               ,https://leetcode.com/problems/jump-game/
-NotPassed,Graph              ,Clone Graph                                                             ,https://leetcode.com/problems/clone-graph/
-NotPassed,Graph              ,Course Schedule                                                         ,https://leetcode.com/problems/course-schedule/
-NotPassed,Graph              ,Pacific Atlantic Water Flow                                             ,https://leetcode.com/problems/pacific-atlantic-water-flow/
-NotPassed,Graph              ,Number of Islands                                                       ,https://leetcode.com/problems/number-of-islands/
-NotPassed,Graph              ,Longest Consecutive Sequence                                            ,https://leetcode.com/problems/longest-consecutive-sequence/
-NotPassed,Graph              ,Alien Dictionary (Leetcode Premium)                                     ,https://leetcode.com/problems/alien-dictionary/
-NotPassed,Graph              ,Graph Valid Tree (Leetcode Premium)                                     ,https://leetcode.com/problems/graph-valid-tree/
-NotPassed,Graph              ,Number of Connected Components in an Undirected Graph (Leetcode Premium),https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-NotPassed,Interval           ,Insert Interval                                                         ,https://leetcode.com/problems/insert-interval/
-NotPassed,Interval           ,Merge Intervals                                                         ,https://leetcode.com/problems/merge-intervals/
-NotPassed,Interval           ,Non-overlapping Intervals                                               ,https://leetcode.com/problems/non-overlapping-intervals/
-NotPassed,Interval           ,Meeting Rooms (Leetcode Premium)                                        ,https://leetcode.com/problems/meeting-rooms/
-NotPassed,Interval           ,Meeting Rooms II (Leetcode Premium)                                     ,https://leetcode.com/problems/meeting-rooms-ii/
-NotPassed,Linked List        ,Reverse a Linked List                                                   ,https://leetcode.com/problems/reverse-linked-list/
-NotPassed,Linked List        ,Detect Cycle in a Linked List                                           ,https://leetcode.com/problems/linked-list-cycle/
-NotPassed,Linked List        ,Merge Two Sorted Lists                                                  ,https://leetcode.com/problems/merge-two-sorted-lists/
-NotPassed,Linked List        ,Merge K Sorted Lists                                                    ,https://leetcode.com/problems/merge-k-sorted-lists/
-Passed   ,Linked List        ,Remove Nth Node From End Of List                                        ,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-NotPassed,Linked List        ,Reorder List                                                            ,https://leetcode.com/problems/reorder-list/
-NotPassed,Matrix             ,Set Matrix Zeroes                                                       ,https://leetcode.com/problems/set-matrix-zeroes/
-NotPassed,Matrix             ,Spiral Matrix                                                           ,https://leetcode.com/problems/spiral-matrix/
-NotPassed,Matrix             ,Rotate Image                                                            ,https://leetcode.com/problems/rotate-image/
-NotPassed,Matrix             ,Word Search                                                             ,https://leetcode.com/problems/word-search/
-Passed   ,String             ,Longest Substring Without Repeating Characters                          ,https://leetcode.com/problems/longest-substring-without-repeating-characters/
-NotPassed,String             ,Longest Repeating Character Replacement                                 ,https://leetcode.com/problems/longest-repeating-character-replacement/
-NotPassed,String             ,Minimum Window Substring                                                ,https://leetcode.com/problems/minimum-window-substring/
-NotPassed,String             ,Valid Anagram                                                           ,https://leetcode.com/problems/valid-anagram/
-NotPassed,String             ,Group Anagrams                                                          ,https://leetcode.com/problems/group-anagrams/
-Passed   ,String             ,Valid Parentheses                                                       ,https://leetcode.com/problems/valid-parentheses/
-Passed   ,String             ,Valid Palindrome                                                        ,https://leetcode.com/problems/valid-palindrome/
-Passed   ,String             ,Longest Palindromic Substring                                           ,https://leetcode.com/problems/longest-palindromic-substring/
-NotPassed,String             ,Palindromic Substrings                                                  ,https://leetcode.com/problems/palindromic-substrings/
-NotPassed,String             ,Encode and Decode Strings (Leetcode Premium)                            ,https://leetcode.com/problems/encode-and-decode-strings/
-Passed   ,Tree               ,Maximum Depth of Binary Tree                                            ,https://leetcode.com/problems/maximum-depth-of-binary-tree/
-Passed   ,Tree               ,Same Tree                                                               ,https://leetcode.com/problems/same-tree/
-NotPassed,Tree               ,Invert/Flip Binary Tree                                                 ,https://leetcode.com/problems/invert-binary-tree/
-NotPassed,Tree               ,Binary Tree Maximum Path Sum                                            ,https://leetcode.com/problems/binary-tree-maximum-path-sum/
-NotPassed,Tree               ,Binary Tree Level Order Traversal                                       ,https://leetcode.com/problems/binary-tree-level-order-traversal/
-NotPassed,Tree               ,Serialize and Deserialize Binary Tree                                   ,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-NotPassed,Tree               ,Subtree of Another Tree                                                 ,https://leetcode.com/problems/subtree-of-another-tree/
-NotPassed,Tree               ,Construct Binary Tree from Preorder and Inorder Traversal               ,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-NotPassed,Tree               ,Validate Binary Search Tree                                             ,https://leetcode.com/problems/validate-binary-search-tree/
-NotPassed,Tree               ,Kth Smallest Element in a BST                                           ,https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-NotPassed,Tree               ,Lowest Common Ancestor of BST                                           ,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-NotPassed,Tree               ,Implement Trie (Prefix Tree)                                            ,https://leetcode.com/problems/implement-trie-prefix-tree/
-NotPassed,Tree               ,Add and Search Word                                                     ,https://leetcode.com/problems/add-and-search-word-data-structure-design/
-NotPassed,Tree               ,Word Search II                                                          ,https://leetcode.com/problems/word-search-ii/
-NotPassed,Heap               ,Merge K Sorted Lists                                                    ,https://leetcode.com/problems/merge-k-sorted-lists/
-NotPassed,Heap               ,Top K Frequent Elements                                                 ,https://leetcode.com/problems/top-k-frequent-elements/
-NotPassed,Heap               ,Find Median from Data Stream                                            ,https://leetcode.com/problems/find-median-from-data-stream/
+Status,Topic,Description,Leetcode URL
+Passed,Arrays,Two Sum,https://leetcode.com/problems/two-sum/
+Passed,Arrays,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+NotPassed,Arrays,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/
+NotPassed,Arrays,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/
+NotPassed,Arrays,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/
+NotPassed,Arrays,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+NotPassed,Arrays,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/
+Passed,Arrays,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/
+Passed,Arrays,3Sum,https://leetcode.com/problems/3sum/
+Passed,Arrays,Container With Most Water,https://leetcode.com/problems/container-with-most-water/
+NotPassed,Binary,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/
+Passed,Binary,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/
+NotPassed,Binary,Counting Bits,https://leetcode.com/problems/counting-bits/
+Passed,Binary,Missing Number,https://leetcode.com/problems/missing-number/
+Passed,Binary,Reverse Bits,https://leetcode.com/problems/reverse-bits/
+Passed,Dynamic Programming,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/
+NotPassed,Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/
+NotPassed,Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/
+NotPassed,Dynamic Programming,Longest Common Subsequence,
+NotPassed,Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word-break/
+Passed,Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum/
+Passed,Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/
+NotPassed,Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/
+NotPassed,Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/
+NotPassed,Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/
+NotPassed,Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/
+NotPassed,Graph,Clone Graph,https://leetcode.com/problems/clone-graph/
+NotPassed,Graph,Course Schedule,https://leetcode.com/problems/course-schedule/
+NotPassed,Graph,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/
+NotPassed,Graph,Number of Islands,https://leetcode.com/problems/number-of-islands/
+NotPassed,Graph,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/
+NotPassed,Graph,Alien Dictionary (Leetcode Premium),https://leetcode.com/problems/alien-dictionary/
+NotPassed,Graph,Graph Valid Tree (Leetcode Premium),https://leetcode.com/problems/graph-valid-tree/
+NotPassed,Graph,Number of Connected Components in an Undirected Graph (Leetcode Premium),https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+NotPassed,Interval,Insert Interval,https://leetcode.com/problems/insert-interval/
+NotPassed,Interval,Merge Intervals,https://leetcode.com/problems/merge-intervals/
+NotPassed,Interval,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/
+NotPassed,Interval,Meeting Rooms (Leetcode Premium),https://leetcode.com/problems/meeting-rooms/
+NotPassed,Interval,Meeting Rooms II (Leetcode Premium),https://leetcode.com/problems/meeting-rooms-ii/
+NotPassed,Linked List,Reverse a Linked List,https://leetcode.com/problems/reverse-linked-list/
+NotPassed,Linked List,Detect Cycle in a Linked List,https://leetcode.com/problems/linked-list-cycle/
+NotPassed,Linked List,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/
+NotPassed,Linked List,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/
+Passed,Linked List,Remove Nth Node From End Of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+NotPassed,Linked List,Reorder List,https://leetcode.com/problems/reorder-list/
+NotPassed,Matrix,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/
+NotPassed,Matrix,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/
+NotPassed,Matrix,Rotate Image,https://leetcode.com/problems/rotate-image/
+NotPassed,Matrix,Word Search,https://leetcode.com/problems/word-search/
+Passed,String,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+NotPassed,String,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/
+NotPassed,String,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/
+NotPassed,String,Valid Anagram,https://leetcode.com/problems/valid-anagram/
+NotPassed,String,Group Anagrams,https://leetcode.com/problems/group-anagrams/
+Passed,String,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/
+Passed,String,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/
+Passed,String,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/
+NotPassed,String,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/
+NotPassed,String,Encode and Decode Strings (Leetcode Premium),https://leetcode.com/problems/encode-and-decode-strings/
+Passed,Tree,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Passed,Tree,Same Tree,https://leetcode.com/problems/same-tree/
+NotPassed,Tree,Invert/Flip Binary Tree,https://leetcode.com/problems/invert-binary-tree/
+NotPassed,Tree,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/
+NotPassed,Tree,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/
+NotPassed,Tree,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+NotPassed,Tree,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/
+NotPassed,Tree,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+NotPassed,Tree,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/
+NotPassed,Tree,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+NotPassed,Tree,Lowest Common Ancestor of BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+NotPassed,Tree,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/
+NotPassed,Tree,Add and Search Word,https://leetcode.com/problems/add-and-search-word-data-structure-design/
+NotPassed,Tree,Word Search II,https://leetcode.com/problems/word-search-ii/
+NotPassed,Heap,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/
+NotPassed,Heap,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/
+NotPassed,Heap,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/
