@@ -15,8 +15,8 @@ Passed,Binary,Counting Bits,https://leetcode.com/problems/counting-bits/
 Passed,Binary,Missing Number,https://leetcode.com/problems/missing-number/
 Passed,Binary,Reverse Bits,https://leetcode.com/problems/reverse-bits/
 Passed,Dynamic Programming,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/
-NotPassed,Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/
-NotPassed,Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/
+Passed,Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/
+Passed,Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/
 NotPassed,Dynamic Programming,Longest Common Subsequence,
 NotPassed,Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word-break/
 Passed,Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum/
