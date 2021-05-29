@@ -17,7 +17,7 @@ Passed,Binary,Reverse Bits,https://leetcode.com/problems/reverse-bits/
 Passed,Dynamic Programming,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/
 Passed,Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/
 Passed,Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/
-NotPassed,Dynamic Programming,Longest Common Subsequence,
+Passed,Dynamic Programming,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/
 NotPassed,Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word-break/
 Passed,Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum/
 Passed,Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/
