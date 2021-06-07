@@ -39,7 +39,7 @@ NotPassed,Interval,Non-overlapping Intervals,https://leetcode.com/problems/non-o
 NotPassed,Interval,Meeting Rooms (Leetcode Premium),https://leetcode.com/problems/meeting-rooms/
 NotPassed,Interval,Meeting Rooms II (Leetcode Premium),https://leetcode.com/problems/meeting-rooms-ii/
 NotPassed,Linked List,Reverse a Linked List,https://leetcode.com/problems/reverse-linked-list/
-NotPassed,Linked List,Detect Cycle in a Linked List,https://leetcode.com/problems/linked-list-cycle/
+Passed,Linked List,Detect Cycle in a Linked List,https://leetcode.com/problems/linked-list-cycle/
 NotPassed,Linked List,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/
 NotPassed,Linked List,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/
 Passed,Linked List,Remove Nth Node From End Of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
