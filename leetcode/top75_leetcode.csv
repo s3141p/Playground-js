@@ -21,7 +21,7 @@ Passed,Dynamic Programming,Longest Common Subsequence,https://leetcode.com/probl
 Passed,Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word-break/
 Passed,Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum/
 Passed,Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/
-NotPassed,Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/
+Passed,Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/
 NotPassed,Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/
 NotPassed,Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/
 NotPassed,Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/
