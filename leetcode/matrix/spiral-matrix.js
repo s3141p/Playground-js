@@ -4,14 +4,12 @@
  * @param {number[][]} matrix
  * @return {number[]}
  */
- var spiralOrder = function (matrix) {
+var spiralOrder = function (matrix) {
   const result = [];
   let r = matrix.length;
   let c = matrix[0].length;
   let max = r * c;
   let [left, right, top, bottom] = [0, c - 1, 0, r - 1];
-
-  const check = () => result.length === max;
 
   while (result.length < max) {
     for (let i = left; i <= right; i++) {
@@ -60,6 +58,10 @@ const b = [
   [9, 10, 11, 12],
 ];
 const c = [[7], [9], [6]];
+const d = [
+  [1, 2, 3, 4, 5],
+  [6, 7, 8, 9, 10],
+];
 
 // const b = [
 //   [1, 2, 3, 4, 5, 6],
@@ -70,4 +72,4 @@ const c = [[7], [9], [6]];
 //   [31, 32, 33, 34, 35, 36],
 // ];
 
-console.log(spiralOrder(c));
+console.log(spiralOrder([[1], [2], [3], [4]]));
