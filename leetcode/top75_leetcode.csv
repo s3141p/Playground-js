@@ -22,7 +22,7 @@ Passed,Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word
 Passed,Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum/
 Passed,Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/
 Passed,Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/
-NotPassed,Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/
+Passed,Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/
 NotPassed,Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/
 NotPassed,Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/
 NotPassed,Graph,Clone Graph,https://leetcode.com/problems/clone-graph/
