@@ -24,7 +24,7 @@ Passed,Dynamic Programming,House Robber,https://leetcode.com/problems/house-robb
 Passed,Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/
 Passed,Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/
 Passed,Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/
-NotPassed,Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/
+Passed,Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/
 NotPassed,Graph,Clone Graph,https://leetcode.com/problems/clone-graph/
 NotPassed,Graph,Course Schedule,https://leetcode.com/problems/course-schedule/
 NotPassed,Graph,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/
