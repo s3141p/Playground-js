@@ -20,7 +20,4 @@ function insertSort(arr) {
   return arr;
 }
 
-n + n-1 + n-2 = 
-(1 + n/2) * n
-
 console.log(insertSort([5, 0, -2, 7, 3]));

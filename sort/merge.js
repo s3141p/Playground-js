@@ -1,38 +1,43 @@
-function mergeSort(arr, left = 0, right = arr.length - 1) {
-  console.log(left, right);
-  if (left === right) {
+function mergeSort(arr, start = 0, end = arr.length - 1, tmpArr = []) {
+  if (start >= end) {
     return;
   }
 
-  const middle = Math.floor((left + right) / 2);
-  mergeSort(arr, left, middle);
-  mergeSort(arr, middle + 1, right);
-  merge(arr, left, middle, right);
+  const middle = start + Math.floor((end - start) / 2);
+
+  mergeSort(arr, start, middle, tmpArr);
+  mergeSort(arr, middle + 1, end, tmpArr);
+
+  merge(arr, tmpArr, start, middle, end);
 }
 
-function merge(arr, left, middle, right) {
-  const copy = arr.slice(left, right + 1);
+function merge(arr, tmp, start, middle, end) {
+  for (let i = start; i <= end; i++) {
+    tmp[i] = arr[i];
+  }
 
-  let l = left;
-  let r = middle + 1;
+  let leftCounter = start;
+  let rightCounter = middle + 1;
 
-  for (let i = left; i <= right; i++) {
-    if (l > middle) {
-      arr[i] = copy[r];
-      r++;
-    } else if (r > right) {
-      arr[i] = copy[l];
-      l++;
-    } else if (copy[l] > copy[r]) {
-      arr[i] = copy[r];
-      r++;
+  for (let i = start; i <= end; i++) {
+    if (leftCounter > middle) {
+      arr[i] = tmp[rightCounter];
+      rightCounter++;
+    }
+    else if (rightCounter > end) {
+      arr[i] = tmp[leftCounter];
+      leftCounter++;
+    } else if (tmp[leftCounter] < tmp[rightCounter]) {
+      arr[i] = tmp[leftCounter];
+      leftCounter++;
     } else {
-      arr[i] = copy[l];
-      l++;
+      arr[i] = tmp[rightCounter];
+      rightCounter++;
     }
   }
 }
 
 const arr = [5, 0, -2, 7, 3, 10];
 mergeSort(arr);
+
 console.log(arr);
