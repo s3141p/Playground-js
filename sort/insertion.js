@@ -1,13 +1,16 @@
 function insertionSort(arr) {
-  for (let i = 1; i < arr.length; i++) {
-    const toSwap = arr[i];
-    let j = i - 1;
+  const len = arr.length;
 
-    for (; j >= 0 && arr[j] > toSwap; j--) {
+  for (let i = 1; i < len; i++) {
+    let j = i - 1;
+    const swap = arr[i];
+
+    while (j >= 0 && arr[j] > swap) {
       arr[j + 1] = arr[j];
+      j--;
     }
 
-    arr[j + 1] = toSwap;
+    arr[j + 1] = swap;
   }
 
   return arr;
