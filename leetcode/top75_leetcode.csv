@@ -33,7 +33,7 @@ NotPassed,Graph,Longest Consecutive Sequence,https://leetcode.com/problems/longe
 NotPassed,Graph,Alien Dictionary (Leetcode Premium),https://leetcode.com/problems/alien-dictionary/
 NotPassed,Graph,Graph Valid Tree (Leetcode Premium),https://leetcode.com/problems/graph-valid-tree/
 NotPassed,Graph,Number of Connected Components in an Undirected Graph (Leetcode Premium),https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-NotPassed,Interval,Insert Interval,https://leetcode.com/problems/insert-interval/
+Passed,Interval,Insert Interval,https://leetcode.com/problems/insert-interval/
 NotPassed,Interval,Merge Intervals,https://leetcode.com/problems/merge-intervals/
 NotPassed,Interval,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/
 NotPassed,Interval,Meeting Rooms (Leetcode Premium),https://leetcode.com/problems/meeting-rooms/
