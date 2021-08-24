@@ -5,35 +5,31 @@ function printBtree(node) {
     return;
   }
 
+  const queue = [node];
+  let length = queue.length;
   let level = '';
-  const queue = [node, '-'];
 
-  while (true) {
-    const current = queue.shift();
+  while (queue.length > 0) {
+    const item = queue.shift();
 
-    if (current === '-') {
-      console.log(level, '⤵');
+    length--;
+    level += item.val + ','
+
+    if (item.left) {
+      queue.push(item.left);
+    }
+
+    if (item.right) {
+      queue.push(item.right);
+    }
+
+    if (length === 0) {
+      console.log(level);
       level = '';
-
-      if (queue.length === 0) {
-        return;
-      }
-
-      queue.push('-');
-
-      continue;
-    }
-
-    level += current.val;
-
-    if (current.left) {
-      queue.push(current.left);
-    }
-
-    if (current.right) {
-      queue.push(current.right);
+      length = queue.length;
     }
   }
+
 }
 
 const res = printBtree(deserializeBtreeBFS([1, 2, 2, 3, 4, 4, 3]));
