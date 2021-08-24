@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
@@ -12,5 +14,30 @@
  * @return {TreeNode}
  */
 var buildTree = function (preorder, inorder) {
-    const root = preorder.unshift();
+    let preIndex = 0;
+
+    function helper(start, end) {
+        if (start >= end) {
+            return null
+        }
+
+        const val = preorder[preIndex++];
+        const rootIdx = inorder.indexOf(val);
+        const node = {
+            val
+        };
+
+        node.left = helper(start, rootIdx);
+        node.right = helper(rootIdx + 1, end);
+
+        return node;
+    }
+
+    return helper(0, preorder.length);
 };
+
+const preorde = [3, 7];
+const inorder = [3, 7]
+
+
+console.log(buildTree(preorde, inorder))
