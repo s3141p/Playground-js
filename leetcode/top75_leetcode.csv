@@ -47,7 +47,7 @@ Passed,Linked List,Reorder List,https://leetcode.com/problems/reorder-list/
 Passed,Matrix,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/
 Passed,Matrix,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/
 NotPassed,Matrix,Rotate Image,https://leetcode.com/problems/rotate-image/
-NotPassed,Matrix,Word Search,https://leetcode.com/problems/word-search/
+Passed,Matrix,Word Search,https://leetcode.com/problems/word-search/
 Passed,String,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/
 NotPassed,String,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/
 NotPassed,String,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/
