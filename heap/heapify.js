@@ -71,7 +71,3 @@ console.log(arr, another);
 
 console.log(compare(arr, another));
 
-
-
-
-
