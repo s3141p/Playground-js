@@ -20,3 +20,5 @@ var removeDuplicates = function (nums) {
 
     return nextIndex;
 };
+
+console.log(removeDuplicates([1, 1, 2]));
