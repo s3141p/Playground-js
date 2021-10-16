@@ -32,4 +32,6 @@ function printBtree(node) {
 
 }
 
-const res = printBtree(deserializeBtreeBFS([1, 2, 2, 3, 4, 4, 3]));
+// const res = printBtree(deserializeBtreeBFS([1, 2, 2, 3, 4, 4, 3]));
+
+module.exports = printBtree;
